@@ -8,7 +8,7 @@ About
 
 The module includes [SQLite](http://www.sqlite.org) 3.8.7.2 executable for Mac, Windows x64 and Linux x64.
 
-The executables for Mac are built with @loader_path and Linux with $ORIGIN, so no need to install sqlite3.
+The executables for Mac are built with @loader_path and for Linux with $ORIGIN, so no need to install sqlite3.
 
 Install
 -------
