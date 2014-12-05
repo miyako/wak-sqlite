@@ -32,7 +32,6 @@ Example
 var modulesFolder = FileSystemSync('Modules');
 var sql = require(modulesFolder.path + 'sql');
 
-
 var desktopPath = FileSystemSync('Desktop').path;
 
 var code = '';
